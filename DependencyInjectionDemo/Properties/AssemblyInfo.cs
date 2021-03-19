@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DependencyInjectionDemo")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ConsoleUI")]
+[assembly: AssemblyDescription("ConsoleUI")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DependencyInjectionDemo")]
+[assembly: AssemblyProduct("ConsoleUI")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
